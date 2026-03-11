@@ -1,0 +1,19 @@
+.container {
+    background-color: #202024;
+    border: 2px solid #00b37e;
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+
+    transition: .5s;
+}
+
+.container:hover {
+    background-color: #111114;
+}
+
+.container span {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1em;
+}
